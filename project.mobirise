@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "redHilvanadas ",
-    "currentPage": "index.html",
+    "currentPage": "hilvanadas.tk.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -80,7 +80,7 @@
     "publishChangesOnly": true
   },
   "pages": {
-    "index.html": {
+    "hilvanadas.tk.html": {
       "settings": {
         "main": true,
         "title": "Hilvanadas",
