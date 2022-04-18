@@ -785,6 +785,22 @@ a {
 .cid-sOubIgms71 .mbr-text {
   color: #601e84;
 }
+.cid-t3lQubqCxb {
+  background-color: #9fdbf8;
+}
+.cid-t3lQubqCxb .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t3lQubqCxb .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
+}
+.cid-t3lQubqCxb .mbr-section-title {
+  color: #601e84;
+}
 .cid-sOws2v6Y41 {
   padding-top: 6rem;
   padding-bottom: 6rem;
